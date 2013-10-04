@@ -1,0 +1,373 @@
+Tconverter
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter.xcdatamodeld
+cProcessPCH /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch converter/converter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter normal x86_64
+cCpResource converter/en.lproj/Credits.rtf DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib
+cCopyStringsFile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/InfoPlist.strings converter/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Images.xcassets
+cProcessInfoPlistFile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist
+cTouch /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005130311600000000000004B3
+t1362112790
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005130233600000000000001DE
+t1362109238
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000513031A300000000000025C8
+t1362112931
+s9672
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch
+t1380854876
+s13086840
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o
+t1380854876
+s62984
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/converter.LinkFileList
+c00000000524E2C5B0000000000000145
+t1380854875
+s325
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o
+t1380854876
+s2872
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_dependencies.txt
+t1380854877
+s178
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_generated_info.plist
+t1380854877
+s181
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app
+t1380854875
+s102
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist
+t1380854877
+s1419
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter
+t1380854876
+s26452
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/PkgInfo
+t1380854877
+s8
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1380854876
+s45157
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd
+t1380854875
+s170
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf
+t1380854876
+s436
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1380854876
+s92
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m
+c00000000524E2B770000000000001D61
+t1380854647
+s7521
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib
+c00000000524E2C5B000000000000DC1B
+t1380854875
+s56347
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Images.xcassets
+c00000000524E2B770000000000000066
+t1380854647
+s102
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist
+c00000000524E2B77000000000000044E
+t1380854647
+s1102
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Prefix.pch
+c00000000524E2B7700000000000000AC
+t1380854647
+s172
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter.xcdatamodeld
+c00000000524E2B770000000000000088
+t1380854647
+s136
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/en.lproj/Credits.rtf
+c00000000524E2B7700000000000001B4
+t1380854647
+s436
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/en.lproj/InfoPlist.strings
+c00000000524E2B77000000000000002D
+t1380854647
+s45
+
+N/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m
+c00000000524E2B7700000000000000F6
+t1380854647
+s246
+
+CBuild AST from /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m
+r0
+
+CBuild AST from /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies103cc6db63feb741^b971cbdb63feb741^---0#1#1#--18"Check dependencies36"A4055B0F-97F0-44E0-9853-ECFC8F181AD7-
+
+CCompileAssetCatalog /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Images.xcassets
+s402547676.722996
+e402547677.199888
+r1
+xCompileAssetCatalog
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CompileAssetCatalog DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources converter/Images.xcassets121"CompileAssetCatalog DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources converter/Images.xcassets2d27b9dc63feb741^412c33dd63feb741^-208"/* com.apple.actool.compilation-results *//Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Images.xcassets/0000000000000000^977"CompileAssetCatalog DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources converter/Images.xcassets    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.8 --target-device mac --compile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Images.xcassets36"7A2E65CD-B935-402F-8023-140524659BBA-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CCompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402547676.493791
+e402547676.539731
+r1
+xCompileC
+xDerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m218"CompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o converter/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5f7b7edc63feb741^342c8adc63feb741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m0000000000000000^3590"CompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o converter/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-generated-files.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-own-target-headers.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-all-target-headers.hmap -iquote /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-project-headers.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/DerivedSources/x86_64 -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/DerivedSources -F/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug -include /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/AppDelegate.m -o /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o36"395DD5DB-202A-4CF5-B3B0-CA6727EABE99-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CCompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402547676.493821
+e402547676.511085
+r1
+xCompileC
+xDerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m204"CompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o converter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc47b7edc63feb741^f5d882dc63feb741^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m0000000000000000^3548"CompileC DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o converter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-generated-files.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-own-target-headers.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-all-target-headers.hmap -iquote /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-project-headers.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/DerivedSources/x86_64 -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/DerivedSources -F/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug -include /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.dia -c /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/main.m -o /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o36"8B2AF9C5-2BFB-4535-963B-60808AC2E9BC-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CCompileXIB /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib
+s402547676.722972
+e402547676.865620
+r1
+xCompileXIB
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib
+o2013-10-03 21:47:56.811 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601
+oDetails:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc61f102620>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e48f0> orientationMask=Horizontal ambiguousViewsToAmbiguityStatus={
+o    "<NSScrollView: 0x7fc61f102620>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc2f0 view=<NSScrollView: 0x7fc61f102620> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";
+o    "<NSClipView: 0x7fc619cf6b90>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc5f0 view=<NSClipView: 0x7fc619cf6b90> horizontalSize=1 verticalSize=1>";
+o}
+oObject:   <IBCocoaDocument: 0x7fc61a01a400>
+oMethod:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:
+oThread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}
+oPlease file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.
+o2013-10-03 21:47:56.811 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601
+oDetails:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc61f102620>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e9c00> orientationMask=Vertical ambiguousViewsToAmbiguityStatus={
+o    "<NSScrollView: 0x7fc61f102620>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc2f0 view=<NSScrollView: 0x7fc61f102620> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";
+o    "<NSClipView: 0x7fc619cf6b90>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc5f0 view=<NSClipView: 0x7fc619cf6b90> horizontalSize=1 verticalSize=1>";
+o}
+oObject:   <IBCocoaDocument: 0x7fc61a01a400>
+oMethod:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:
+oThread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}
+oPlease file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.
+o2013-10-03 21:47:56.813 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601
+oDetails:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc619c9ff80>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e9270> orientationMask=Vertical ambiguousViewsToAmbiguityStatus={
+o    "<NSClipView: 0x7fc619c9c260>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc6b0 view=<NSClipView: 0x7fc619c9c260> horizontalSize=1 verticalSize=1>";
+o    "<NSScrollView: 0x7fc619c9ff80>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc490 view=<NSScrollView: 0x7fc619c9ff80> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";
+o}
+oObject:   <IBCocoaDocument: 0x7fc61a01a400>
+oMethod:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:
+oThread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}
+oPlease file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.
+o2013-10-03 21:47:56.814 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601
+oDetails:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc619c9ff80>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e3de0> orientationMask=Horizontal ambiguousViewsToAmbiguityStatus={
+o    "<NSClipView: 0x7fc619c9c260>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc6b0 view=<NSClipView: 0x7fc619c9c260> horizontalSize=1 verticalSize=1>";
+o    "<NSScrollView: 0x7fc619c9ff80>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc490 view=<NSScrollView: 0x7fc619c9ff80> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";
+o}
+oObject:   <IBCocoaDocument: 0x7fc61a01a400>
+oMethod:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:
+oThread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}
+oPlease file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.
+o/* com.apple.ibtool.document.warnings */
+o/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib:zhs-0m-OwR: warning: Frame for "Clip View" will be different at run time. [16]
+o/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib:w4p-YD-c6A: warning: Frame for "Clip View" will be different at run time. [16]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib44"CompileXIB converter/Base.lproj/MainMenu.xib4226b9dc63feb741^0f9adddc63feb741^-5185"2013-10-03 21:47:56.811 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601Details:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc61f102620>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e48f0> orientationMask=Horizontal ambiguousViewsToAmbiguityStatus={    "<NSScrollView: 0x7fc61f102620>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc2f0 view=<NSScrollView: 0x7fc61f102620> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";    "<NSClipView: 0x7fc619cf6b90>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc5f0 view=<NSClipView: 0x7fc619cf6b90> horizontalSize=1 verticalSize=1>";}Object:   <IBCocoaDocument: 0x7fc61a01a400>Method:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:Thread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}Please file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.2013-10-03 21:47:56.811 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601Details:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc61f102620>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e9c00> orientationMask=Vertical ambiguousViewsToAmbiguityStatus={    "<NSScrollView: 0x7fc61f102620>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc2f0 view=<NSScrollView: 0x7fc61f102620> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";    "<NSClipView: 0x7fc619cf6b90>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc5f0 view=<NSClipView: 0x7fc619cf6b90> horizontalSize=1 verticalSize=1>";}Object:   <IBCocoaDocument: 0x7fc61a01a400>Method:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:Thread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}Please file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.2013-10-03 21:47:56.813 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601Details:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc619c9ff80>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e9270> orientationMask=Vertical ambiguousViewsToAmbiguityStatus={    "<NSClipView: 0x7fc619c9c260>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc6b0 view=<NSClipView: 0x7fc619c9c260> horizontalSize=1 verticalSize=1>";    "<NSScrollView: 0x7fc619c9ff80>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc490 view=<NSScrollView: 0x7fc619c9ff80> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";}Object:   <IBCocoaDocument: 0x7fc61a01a400>Method:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:Thread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}Please file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide.2013-10-03 21:47:56.814 ibtoold[7271:707] [MT] DVTAssertions: Warning in /SourceCache/IDEInterfaceBuilder/IDEInterfaceBuilder-4510/Framework/Document/IBDocument.m:8601Details:  Found an uninitialized ambiguous view (<NSScrollView: 0x7fc619c9ff80>) in an ambiguity status group that contained more than the view. Uninitialized views should be in their own group. This will result in losing the ambiguity status of those other views: <IBAutolayoutAmbiguityGroup: 0x7fc61f1e3de0> orientationMask=Horizontal ambiguousViewsToAmbiguityStatus={    "<NSClipView: 0x7fc619c9c260>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc6b0 view=<NSClipView: 0x7fc619c9c260> horizontalSize=1 verticalSize=1>";    "<NSScrollView: 0x7fc619c9ff80>" = "<IBAutolayoutAmbiguityStatus: 0x7fc61f1dc490 view=<NSScrollView: 0x7fc619c9ff80> horizontalPosition=1 verticalPosition=1 horizontalSize=1 verticalSize=1>";}Object:   <IBCocoaDocument: 0x7fc61a01a400>Method:   -_updateUninitializedAmbiguityStatusInUnit:mutableEffectiveAmbiguousViewStatusGroups:Thread:   <NSThread: 0x7fc619c190d0>{name = (null), num = 1}Please file a bug at http://bugreport.apple.com with this warning message and any useful information you can provide./* com.apple.ibtool.document.warnings *//Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib:zhs-0m-OwR: warning: Frame for "Clip View" will be different at run time./Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib:w4p-YD-c6A: warning: Frame for "Clip View" will be different at run time.2(21%IDEActivityLogMessage2@52"Frame for "Clip View" will be different at run time.-402547676#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@99"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#14"Misplaced View--2@52"Frame for "Clip View" will be different at run time.-402547676#18446744073709551615#0#-1#-3@99"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#14"Misplaced View--0#0#1#-19%DVTDocumentLocation4@99"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib0000000000000000^597"CompileXIB converter/Base.lproj/MainMenu.xib    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.8 --output-format human-readable-text --compile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/Base.lproj/MainMenu.xib36"2481781C-C11A-420D-99B2-BA257BFB543C-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CCopyStringsFile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/InfoPlist.strings converter/en.lproj/InfoPlist.strings
+s402547676.722965
+e402547676.729273
+r1
+xCopyStringsFile
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/InfoPlist.strings
+xconverter/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy converter/en.lproj/InfoPlist.strings155"CopyStringsFile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/InfoPlist.strings converter/en.lproj/InfoPlist.stringsfe29b9dc63feb741^29b2badc63feb741^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/en.lproj/InfoPlist.strings0000000000000000^478"CopyStringsFile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/InfoPlist.strings converter/en.lproj/InfoPlist.strings    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj -- converter/en.lproj/InfoPlist.strings36"3C5FFBC9-B8B6-43BF-A145-8449F89BA68E-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CCpResource converter/en.lproj/Credits.rtf DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf
+s402547676.722954
+e402547676.726809
+r1
+xCpResource
+xconverter/en.lproj/Credits.rtf
+xDerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf138"CpResource converter/en.lproj/Credits.rtf DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf5b28b9dc63feb741^bf10badc63feb741^---0#0#1#-19%DVTDocumentLocation2@162"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf00385053dfffdf42^524"CpResource converter/en.lproj/Credits.rtf DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/en.lproj/Credits.rtf /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/en.lproj36"20D1B4AA-CE61-49E8-8D1E-B0720918CF36-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CDataModelVersionCompile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter.xcdatamodeld
+s402547675.796624
+e402547675.956923
+r1
+xDataModelVersionCompile
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"DataModelVersionCompile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd converter/converter.xcdatamodeld147"DataModelVersionCompile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd converter/converter.xcdatamodeld0dfdcbdb63feb741^c2f9f4db63feb741^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter.xcdatamodeld/0000000000000000^657"DataModelVersionCompile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd converter/converter.xcdatamodeld    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -MOMC_PLATFORMS macosx -XD_MOMC_TARGET_VERSION=10.8 /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter.xcdatamodeld /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Resources/converter.momd36"117ACF57-8D0D-4F1C-9CF2-34B933FAB3B5-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CLd /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter normal x86_64
+s402547676.548436
+e402547676.714481
+r1
+xLd
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter
+xnormal
+xx86_64
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/converter.LinkFileList
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter98"Ld DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter normal x86_6426738cdc63feb741^d1e8b6dc63feb741^---0#0#1#--1217"Ld DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter normal x86_64    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug -F/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug -filelist /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/converter.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/Objects-normal/x86_64/converter_dependency_info.dat -o /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/MacOS/converter36"856744ED-2100-45DD-8837-A0A935B777B0-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CProcessInfoPlistFile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist
+s402547677.208338
+e402547677.211190
+r1
+xProcessInfoPlistFile
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Process /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist128"ProcessInfoPlistFile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist converter/converter-Info.plist076235dd63feb741^121136dd63feb741^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist0000000000000000^787"ProcessInfoPlistFile DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist converter/converter-Info.plist    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    builtin-infoPlistUtility /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Info.plist -genpkginfo /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/assetcatalog_generated_info.plist -o /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app/Contents/Info.plist36"16100A32-E3D0-48E1-AD90-E0211383E0E4-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CProcessPCH /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch converter/converter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402547675.797965
+e402547676.485555
+r1
+xProcessPCH
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch
+xconverter/converter-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile converter/converter-Prefix.pch243"ProcessPCH DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch converter/converter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera35accdb63feb741^9d4c7cdc63feb741^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Prefix.pch0000000000000000^3486"ProcessPCH DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch converter/converter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-generated-files.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-own-target-headers.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-all-target-headers.hmap -iquote /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/converter-project-headers.hmap -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/DerivedSources/x86_64 -I/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/converter.build/Debug/converter.build/DerivedSources -F/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug --serialize-diagnostics /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.dia -MMD -MT dependencies -MF /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.d -c /Users/sdickson/Documents/oDesk/ScottYu/converter/converter/converter-Prefix.pch -o /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Intermediates/PrecompiledHeaders/converter-Prefix-awqrpsbqlfkkxrhaqfvuqgdseznq/converter-Prefix.pch.pch36"F1ACC4B3-4A0A-4B1C-A102-2D339503C676-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
+CProcessPCH /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Index/PrecompiledHeaders/converter-Prefix-bcwuhcqmcfavrodsznfundzgkjqp_ast/converter-Prefix.pch.pch converter/converter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app
+s402547677.219260
+e402547677.223922
+r1
+xTouch
+x/Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app62"Touch DerivedData/converter/Build/Products/Debug/converter.appc32838dd63feb741^115439dd63feb741^---0#0#1#--249"Touch DerivedData/converter/Build/Products/Debug/converter.app    cd /Users/sdickson/Documents/oDesk/ScottYu/converter    /usr/bin/touch -c /Users/sdickson/Documents/oDesk/ScottYu/converter/DerivedData/converter/Build/Products/Debug/converter.app36"69F9CBBA-7636-4A93-9DAE-7CA81B90C008-
+b71DF1516-3613-4A7C-94DD-033794DA01E5
+
